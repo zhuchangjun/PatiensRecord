@@ -2,7 +2,7 @@
 Simple REST API for access patients record
 
 This project used Spring Boot, H2 in memory database and developed in Eclipse envirnment.
-Web server can be started either inEclipse or mvn:run in command line.
+Web server can be started either in Eclipse or mvn:run in command line.
 
 It contain simple jsp pages to be able to register patient record and retrieve single patient detais and all patients records as well.
 
