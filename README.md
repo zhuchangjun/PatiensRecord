@@ -11,6 +11,6 @@ http://localhost:8088/
 For retrieve all patients:
 http://localhost:8088/patients
 For retrieve single patient by id:
-http://localhost:8088/patients/3
+http://localhost:8088/patients/X
 
 It also can be test using Curl in command line.
