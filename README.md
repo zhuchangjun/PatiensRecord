@@ -1,4 +1,4 @@
-# PatiensRecord
+# PatientsRecord
 Simple REST API for access patients record
 
 This project used Spring Boot, H2 in memory database and developed in Eclipse envirnment.
